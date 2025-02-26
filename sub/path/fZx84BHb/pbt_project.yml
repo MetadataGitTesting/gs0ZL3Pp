@@ -1,0 +1,57 @@
+name: joette.huel
+description: groupware
+version: 0.0.1
+author: jxbzsqiv.orxylwfn@tsjrcykm.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: joettehuel
+  parentArtefactID: team1740602752327
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-26 20:45:53'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-26 20:45:53'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-26T20:45:53.31622Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1001050214'
+  createdAt: '2025-02-26T20:45:53.31622Z'
+  type: plibMaven
+projectDependencies:
+  '435':
+    projectUID: 435
+    projectName: bennie.hilll
+    repositoryPath: gitUri=http://gitserver:3000/dev_wHiqOYka_team_720/dev_wHiqOYka_project_435.git&subPath=
+    version: bennie.hilll/7.1.5.894
+    isDefault: false
+    author: null
+    createdAt: '2025-02-26 20:45:53'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
